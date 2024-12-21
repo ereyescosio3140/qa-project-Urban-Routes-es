@@ -1,5 +1,7 @@
 Automatización de Pruebas de IU para Urban Routes
 
+(Emmanuel Reyes Cosío / cohort 17)
+
 Este proyecto implementa pruebas automatizadas para la interfaz de usuario de una aplicación de Urban Routes. Las pruebas se han diseñado utilizando Selenium y están estructuradas para ser dinámicas y adaptables.
 
 Estructura del Proyecto
